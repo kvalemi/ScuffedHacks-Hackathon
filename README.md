@@ -13,5 +13,3 @@
 # Project Demo
 
 ![](/images/bot%20demo.png)
-
-# How to Build
